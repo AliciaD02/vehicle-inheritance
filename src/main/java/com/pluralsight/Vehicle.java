@@ -2,7 +2,7 @@ package com.pluralsight;
 
 public class Vehicle {
     //this will be the parent/super class
-    // adding properties only to vehicles
+    // adding properties only to vehicle
 
 
    private String color;

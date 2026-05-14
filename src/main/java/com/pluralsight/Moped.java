@@ -1,5 +1,8 @@
 package com.pluralsight;
 
-public class Moped {
-    // I need to make a method where it will inherit from the parent
-}
+// we need to extend the class so it can inherit form the parent (Vehicle)
+
+public class Moped extends Vehicle {
+
+    }
+

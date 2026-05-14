@@ -1,4 +1,8 @@
 package com.pluralsight;
 
-public class SemiTruck {
-}
+// we need to extend the class so it can inherit form the parent (Vehicle)
+     public class SemiTruck extends Vehicle {
+
+
+    }
+
